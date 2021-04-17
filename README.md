@@ -1,4 +1,4 @@
-# bash
+# Bash
 Programación en Bash Linux Shell
 
 En este repositorio encontrará una serie de scripts programados en Bash-Linux para estudiantes.
